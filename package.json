@@ -1,0 +1,13 @@
+{
+  "name": "simple-server-for-galito",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Or Granit <orgr@wix.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+     "start": "node index.js"
+  }
+}
